@@ -1,0 +1,30 @@
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\US11837\bin\Debug\US11837.exe.config
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\US11837\obj\Debug\US11837.exe
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\US11837\obj\Debug\US11837.xml
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\US11837\obj\Debug\US11837.pdb
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\bin\Debug\US11837.exe.config
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\obj\Debug\US11837.exe
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\obj\Debug\US11837.xml
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\obj\Debug\US11837.pdb
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\bin\Debug\US11837.exe
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\bin\Debug\US11837.pdb
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\bin\Debug\US11837.xml
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\obj\Debug\resistor.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\obj\Debug\US11837.Form1.resources
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\obj\Debug\US11837.Resources.resources
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\US111837\resistor\obj\Debug\resistor.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\obj\Debug\resistor.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\obj\Debug\resistor.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\bin\Debug\resistor.exe.config
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\bin\Debug\resistor.exe
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\bin\Debug\resistor.pdb
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\bin\Debug\resistor.xml
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\obj\Debug\resistor.Form1.resources
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\obj\Debug\resistor.Resources.resources
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\obj\Debug\resistor.exe
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\obj\Debug\resistor.xml
+C:\Users\LENOVO\Downloads\PROGRAM VISUAL (2)\PROGRAM VISUAL\PROGRAM VISUAL\UTS\Menhitung resistor\resistor\resistor\obj\Debug\resistor.pdb
+D:\sem6\suka\PROJECT\Visual Basic\Menhitung resistor\resistor\resistor\bin\Debug\resistor.exe.config
+D:\sem6\suka\PROJECT\Visual Basic\Menhitung resistor\resistor\resistor\obj\Debug\resistor.exe
+D:\sem6\suka\PROJECT\Visual Basic\Menhitung resistor\resistor\resistor\obj\Debug\resistor.xml
+D:\sem6\suka\PROJECT\Visual Basic\Menhitung resistor\resistor\resistor\obj\Debug\resistor.pdb
